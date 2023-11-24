@@ -2,7 +2,7 @@
 
 ![Sounio Sunrise](blueandpink.jpeg)
 
-### - 📔 Currently working on finishing some courses on udemy!
-### - 🌱 Also delving into coding(python), harnessing the dark energy of the terminal and figuring out networks.
-### - 📸 Sketching, photography and motorsports are some things that I find interest in.
+#### 1) 📔 Currently working on completing some courses on udemy!
+#### 2) 🌱 Delving into coding, harnessing the dark energy of the terminal and figuring out networks.
+#### 3) 📸 Sketching, photography and motorsports are some things that interest me.
 
