@@ -1,3 +1,11 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Konstantinos
+====================================================================================================================================
+
+* 🌍  I'm based in Athens, Greece.
+* ✉️  You can contact me at [kyassemis@protonmail.com](mailto:kyassemis@protonmail.com)
+* 🧠  I'm learning java, web development and relational databases.
+* ⚡  I find interest in photography, reading about space and tinkering with electronics!
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
