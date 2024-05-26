@@ -4,10 +4,9 @@
 
 * ☀  Summer Coding Plans: ((?) - is a maybe))
 
-1): C# / Unity 2d Game Dev.
+1): C# / Unity 2d Game Dev. (1 project(s) finished).
 
 2): C# / Unity 3d Game Dev.
-
 
 3): Web Development: HTML, CSS, JS and beyond.
 
