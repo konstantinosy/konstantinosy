@@ -4,20 +4,20 @@
 
 * ☀  Summer Coding Plans: ((?) - is a maybe))
 
-1): C# / Unity 2d Game Dev. (1 project(s) finished).
+    * C# / Unity 2d Game Dev. (1 project(s) finished).
 
-2): C# / Unity 3d Game Dev.
+    * C# / Unity 3d Game Dev.
 
-3): Web Development: HTML, CSS, JS and beyond.
+    * Web Development: HTML, CSS, JS.
 
-4): Some kind of data analysis course / resource / bootcamp.
+    * Something about Data Analysis. Databases, excel, powerbi, tableau, python etc.
 
-5): (?) Some kind of data science course / resource. (Probably will not finish this in the summer)
+    * (?) Some kind of data science course / resource. (Probably will not finish this in the summer)
 
-6): (?) Designing an ALU from scratch.
+    * (?) Designing an ALU from scratch using redstone.
 
-7): (?) Mandelbrot project.
+    * (?) An app that renders the mandelbrot fractal.
 
-8): (?) Some kind of data structures and algorithms book / resource / whatever.
+    * (?) Some kind of data structures and algorithms book / resource / whatever.
 
     
